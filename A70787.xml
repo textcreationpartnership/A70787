@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition presented unto His Maiestie at his court at Bristoll on the 7 day of August. 1643. By Sir Baynham Throkmorton baronet, high Sheriffe of the County of Gloucester, on the behalfe of the clothiers of the same county. VVith His Majesties answer thereunto</title>
+            <author>Throckmorton, Baynham, Sir, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70787</idno>
+            <idno type="STC">Wing P1851</idno>
+            <idno type="STC">Wing T1129</idno>
+            <idno type="STC">ESTC R218235</idno>
+            <idno type="EEBO-CITATION">99829846</idno>
+            <idno type="PROQUEST">99829846</idno>
+            <idno type="VID">34291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:21; 2046:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition presented unto His Maiestie at his court at Bristoll on the 7 day of August. 1643. By Sir Baynham Throkmorton baronet, high Sheriffe of the County of Gloucester, on the behalfe of the clothiers of the same county. VVith His Majesties answer thereunto</title>
+                  <author>Throckmorton, Baynham, Sir, d. 1664.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[by H. Hall],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>printed in the yeare 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing.</note>
+                  <note>Caption title on pg. 1: To the Kings most excellent Majestie. The humble petition of the clothiers of Your Majesties County of Gloucester.</note>
+                  <note>Identified as Wing (2nd ed.) P1851 on UMI microfilm "Early English books, 1641-1700", reel 2011, and as T1129 on reel 2046.</note>
+                  <note>Reproductions of the originals at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing trade --  England --  Gloucester --  Early works to 1800.</term>
+               <term>Clothing workers --  England --  Gloucester --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34291:1"/>
+            <pb facs="tcp:34291:1"/>
+            <p>A PETITION Preſented unto His MAIESTIE At His Court at BRISTOLL on the 7 day of <hi>Auguſt.</hi> 1643.</p>
+            <p>By Sir <hi>Baynham Throkmorton</hi> Baronet, High Sheriffe of the County of <hi>Glouce<g ref="char:EOLhyphen"/>ſter,</hi> on the behalfe of the Clothiers of the ſame County.</p>
+            <p>
+               <hi>VVith</hi> His MAjESTIES Anſwer thereunto.</p>
+            <p>OXFORD, Printed in the Yeare 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:34291:2"/>
+            <pb n="1" facs="tcp:34291:2"/>
+            <head>To the KINGS Moſt Excellent MAjESTIE.</head>
+            <head type="sub">The Humble Petition of the Clothiers of Your <hi>MAjESTIES</hi> County of <hi>Glouceſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Hewing unto your moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſtie, that they be<g ref="char:EOLhyphen"/>ing commanded by Prince RUPERT His Higneſſe to keepe their poore people at worke for the ſpace of one moneth, are moſt ready and willing to obey the ſame, to the utmoſt of their power: But ſo it is, may it pleaſe your MAjESTIE, that ſome of us have loſt our whole eſtates, and many of us have the reſidue that is left now in the hands of merchants with<g ref="char:EOLhyphen"/>in the City of <hi>London,</hi> without which we cannot keepe our work-folkes in
+<pb n="2" facs="tcp:34291:3"/> worke as is Commanded, and as we de<g ref="char:EOLhyphen"/>ſire, our credit being loſt with our goods; and our cloth being made, we have no way of ſafety to keepe it, noe meanes to vent it; whereby we are in a moſt diſtreſſed Condition: All which, in all humility we preſent to Your MAjESTIES moſt gracious Conſideration; with this pro<g ref="char:EOLhyphen"/>teſtation, that whilſt we live, we will conti<g ref="char:EOLhyphen"/>nue Your MAjESTIES loyall, faithfull, and obedient Subjects, and will be ever ready to expreſſe the ſame with our lives and for<g ref="char:EOLhyphen"/>tunes.</p>
+            <p>
+               <hi>VVee therefore moſt humbly beſeech Your <hi>MAjESTY,</hi> that You would be gratiouſly pleaſed to take us into Your favour, and our diſtreſſed eſtate into Your Princely Conſi<g ref="char:EOLhyphen"/>deration, and to protect our perſons, goods that we have left, and cloth which we ſhall make, and to give us Your Majeſties grati<g ref="char:EOLhyphen"/>ous VVarrant to fetch our money from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and to afford us ſome way whereby we may have ſale for our cloth hereafter, whereby we ſhall be enabled to aſsiſt Your <hi>MAjESTIE,</hi> maintaine our families, and
+<pb n="3" facs="tcp:34291:3"/> many thouſands of poore people which depend upon us; And we, as in duty; and by our allegiance we are bound, ſhall alwaies hear<g ref="char:EOLhyphen"/>tily pray for Your <hi>MAjESTIES</hi> long and happy Raigne over us.</hi>
+            </p>
+         </div>
+         <div type="reply_to_petition">
+            <head>His MAjESTIES Anſwer.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty having taken this Petition into Conſideration, and having a deepe ſence of the importance of the trade of thoſe parts, and how many of His poore Subjects are concerned therein, hath commanded me to ſignifie that His Ma<g ref="char:EOLhyphen"/>jeſtie hath given expreſſe orders to all his Of<g ref="char:EOLhyphen"/>ficers and Souldiers (which orders he intends to fortify by a Proclamation to the ſame ef<g ref="char:EOLhyphen"/>fect) That they offer no manner of violence to the perſons or eſtates of any of the Petitio<g ref="char:EOLhyphen"/>ners. That he will require a ſtrict account from any that ſhall preſume to diſobey thoſe His Commands. That He hath command<g ref="char:EOLhyphen"/>ed His Secretaries of State to give Licence to ſuch of His Subjects to repaire to <hi>London</hi> to
+<pb n="4" facs="tcp:34291:4"/> fetch their money from thence as ſhall be made appeare unto them to be ſo well affe<g ref="char:EOLhyphen"/>cted to His ſervice as that they may be truſted to repaire thither. That He hath given order to the Commiſsioners of His Treaſury to con<g ref="char:EOLhyphen"/>ſider the beſt way and meanes they may to enable the Petitioners to ſell off their cloth, and to treat with the Merchants of the City of <hi>Bri<g ref="char:EOLhyphen"/>stol</hi> and of ſuch other Ports as are, or ſhall be in due obedience to His MAjETSY, to take off ſuch proportion of Cloth from the Petitioners at reaſonable rates, as the Petitioners ſhall be able to make.</p>
+            <closer>
+               <signed>FALKLAND.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This is a true Coppy of the Petition, and His Majeſties An<g ref="char:EOLhyphen"/>ſwer, atteſted by mee</hi> John Driver <hi>Under-Sheriffe,</hi> Com: Glouceſter.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34291:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
